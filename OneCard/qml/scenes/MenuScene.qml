@@ -35,7 +35,7 @@ SceneBase {
   // background
   Image {
     id: background
-    source: "../../assets/img/kartenBG.png"
+    source: "../../assets/img/BG.png"
     anchors.fill: menuScene.gameWindowAnchorItem
     fillMode: Image.PreserveAspectCrop
     smooth: true
@@ -47,9 +47,10 @@ SceneBase {
     anchors.horizontalCenter: gameWindowAnchorItem.horizontalCenter
     anchors.top: gameWindowAnchorItem.top
     anchors.topMargin: 15
-    source: "../../assets/img/TitleWatten.png"
+    source: "../../assets/img/WattenTitle2.png"
     fillMode: Image.PreserveAspectFit
     width: 380
+
   }
 
   // button opens powered by v-play message and links to the website
