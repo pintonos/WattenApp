@@ -5,4 +5,6 @@ Item {
     property string levelName
     // this is emitted whenever the rectangle has been tapped successfully, the GameScene will listen to this signal and increase the score
     signal rectanglePressed
+
+    signal cardPressed
 }

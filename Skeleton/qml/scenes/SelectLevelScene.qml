@@ -35,7 +35,7 @@ SceneBase {
             width: 50
             height: 50
             onClicked: {
-                levelPressed("Level1.qml")
+                levelPressed("Level1Watten.qml")
             }
         }
         MenuButton {

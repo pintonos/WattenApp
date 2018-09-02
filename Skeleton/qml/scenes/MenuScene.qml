@@ -10,6 +10,7 @@ SceneBase {
     // signal indicating that the creditsScene should be displayed
     signal creditsPressed
 
+
     // background
     Rectangle {
         anchors.fill: parent.gameWindowAnchorItem
