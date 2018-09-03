@@ -49,7 +49,7 @@ Item {
   Image {
     id: onuButton1
     anchors.fill: parent
-    source: "../../assets/img/ONUButton1.png"
+    source: "../../assets/img/Logo1.png"
     smooth: true
   }
 
@@ -57,7 +57,7 @@ Item {
   Image {
     id: onuButton2
     anchors.fill: parent
-    source: "../../assets/img/ONUButton2.png"
+    source: "../../assets/img/Logo1.png"
     opacity: 0
     smooth: true
   }
